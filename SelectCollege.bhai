@@ -1,0 +1,17 @@
+hi bhai
+    bhai ye hai jeePercentile = 93;
+    bhai ye hai castCategory = "obc";
+    agar bhai(jeePercentile>=98){
+        bol bhai "bhai hm to IIT jayge😎";
+    }nahi to bhai(jeePercentile>92 &&  jeePercentile <98 && (castCategory=="obc" || castCategory=="sc/st")) {
+        bol bhai "IIT to hum v ja sakte hai usme kya hai😎";
+    }nahi to bhai(jeePercentile>92 &&  jeePercentile <98 && castCategory=="general") {
+        bol bhai "bhai NIT to mil hi jayga😎";
+    }nahi to bhai(jeePercentile>85 &&  jeePercentile <92 && (castCategory=="obc" || castCategory=="sc/st")) {
+        bol bhai "NIT to hum v ja sakte hai usme kya hai😎";
+    }nahi to bhai(jeePercentile>85 &&  jeePercentile <92 && castCategory=="general") {
+        bol bhai "bhai IIIT me lower branch to mil hi jayga😎";
+    }warna bhai{
+        bol bhai "koi bat nhi bhai LPU jindabad. Dono bhai mil kr jpu jayge.😂😂🤣";
+    }
+bye bhai
